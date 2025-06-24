@@ -1,2 +1,2 @@
-# Meu-filme-ideal
+# G2
 Projeto de Estrutura Descreta
